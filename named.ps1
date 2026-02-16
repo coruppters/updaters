@@ -1,2 +1,2 @@
-DISCORD_TOKEN=s.GGkrGM.vYg_A_HG1cDc6AFqRxYgyLPWqFc3wVnue44Z9U
-sssss
+hjhjhj
+ghjghjgh
