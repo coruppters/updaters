@@ -1,2 +1,2 @@
-DISCORD_TOKEN=MTQ2MjM1OTU1MjM5NjYyNDAyNg.GGkrGM.vYg_A_HG1cDc6AFqRxYgyLPWqFc3wVnue44Z9U
-WORKER_URL=https://keyauth-worker.asddasd.workers.dev
+DISCORD_TOKEN=s.GGkrGM.vYg_A_HG1cDc6AFqRxYgyLPWqFc3wVnue44Z9U
+sssss
